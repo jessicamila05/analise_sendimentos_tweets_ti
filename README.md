@@ -1,5 +1,5 @@
-# Analise de sentimentos em tweets sobre TI 
-Projeto desenvolvido para a compor o trabalho de conclusão de curso (TCC).  
+# Análise de sentimentos em tweets sobre TI 
+Projeto desenvolvido para a compor meu trabalho de conclusão de curso (TCC).  
 
 Esse projeto consiste na Análise de sentimentos de tweets coletados através da API do Twitter sobre tecnologia da informação. O projeto consiste em:
 
